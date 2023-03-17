@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./src/assets/Desktop.png)
+![Desktop](./src/assets)
 ![Mobile](./src/assets/Mobile.png)
 
 ### Links
